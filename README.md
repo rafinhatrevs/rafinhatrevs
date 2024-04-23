@@ -16,7 +16,7 @@
 [![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://skillicons.dev)
 [![VSCode](https://skillicons.dev/icons?i=vscode&theme=light)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhatrevs&layout=compact)](https://github.com/rafinhatrevs/github-readme-stats)
 
 ## 🙈 Onde me encontrar
 
