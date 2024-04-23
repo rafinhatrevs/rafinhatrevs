@@ -20,6 +20,7 @@
 
 ## 🙈 Where to find me
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 [![Linkedin](https://img.shields.io/badge/-rafaellatrevizan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaellatrevizan/)](https://www.linkedin.com/in/rafaellatrevizan/)
 [![Gmail Badge](https://img.shields.io/badge/-rafaella_trevizan@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaella_trevizan@hotmail.com)](mailto:rafaella_trevizan@hotmail.com)
