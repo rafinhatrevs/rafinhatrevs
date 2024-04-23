@@ -15,6 +15,7 @@
 [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
 [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://skillicons.dev)
 [![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev)
+[![Express](https://skillicons.dev/icons?i=express&theme=dark)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhatrevs&layout=compact&theme=dark)](https://github.com/rafinhatrevs/github-readme-stats)
 
