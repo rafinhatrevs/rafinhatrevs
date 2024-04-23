@@ -1,12 +1,12 @@
 ## 💜 Oie, eu sou a Rafa! 
 
-### Sobre mim
+## :octocat: Sobre mim
 
 - 🎓 Cursando ADS na Descomplica.
 - 💻 Me aprofundando em Back-End na Cubos Academy.
 - 🚀 Explorando tecnologias.
 
-###  ⭐ Minhas Skills
+## ⭐ Minhas Skills
 
 [![JavaScript](https://skillicons.dev/icons?i=js&theme=light)](https://skillicons.dev)
 [![NodeJS](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)
