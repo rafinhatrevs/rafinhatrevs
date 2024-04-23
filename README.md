@@ -20,5 +20,5 @@
 
 ## 🙈 Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Rafaella Trevizan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaellatrevizan/)](https://www.linkedin.com/in/rafaellatrevizan/)
+[![Linkedin](https://img.shields.io/badge/-rafaellatrevizan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaellatrevizan/)](https://www.linkedin.com/in/rafaellatrevizan/)
 [![Gmail Badge](https://img.shields.io/badge/-rafaella_trevizan@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaella_trevizan@hotmail.com)](mailto:rafaella_trevizan@hotmail.com)
