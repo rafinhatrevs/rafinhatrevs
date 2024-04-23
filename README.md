@@ -1,12 +1,12 @@
 ## 💜 Oie, eu sou a Rafa! 
 
-## :octocat: Sobre mim
+## :octocat: About me
 
 - 🎓 Cursando ADS na Descomplica.
 - 💻 Me aprofundando em Back-End na Cubos Academy.
 - 🚀 Explorando tecnologias.
 
-## ⭐ Minhas Skills
+## ⭐ My Skills
 
 [![JavaScript](https://skillicons.dev/icons?i=js&theme=light)](https://skillicons.dev)
 [![NodeJS](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)
@@ -18,7 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhatrevs&layout=compact)](https://github.com/rafinhatrevs/github-readme-stats)
 
-## 🙈 Onde me encontrar
+## 🙈 Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-rafaellatrevizan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaellatrevizan/)](https://www.linkedin.com/in/rafaellatrevizan/)
 [![Gmail Badge](https://img.shields.io/badge/-rafaella_trevizan@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaella_trevizan@hotmail.com)](mailto:rafaella_trevizan@hotmail.com)
