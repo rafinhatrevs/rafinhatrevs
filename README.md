@@ -8,13 +8,13 @@
 
 ## ⭐ My Skills
 
-[![JavaScript](https://skillicons.dev/icons?i=js&theme=light)](https://skillicons.dev)
-[![NodeJS](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)
-[![HTML](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=css&theme=light)](https://skillicons.dev)
-[![Git](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
-[![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://skillicons.dev)
-[![VSCode](https://skillicons.dev/icons?i=vscode&theme=light)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
+[![NodeJS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://skillicons.dev)
+[![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhatrevs&layout=compact)](https://github.com/rafinhatrevs/github-readme-stats)
 
