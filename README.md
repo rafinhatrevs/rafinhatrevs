@@ -10,9 +10,8 @@
 
 [![JavaScript](https://skillicons.dev/icons?i=js&theme=light)](https://skillicons.dev)
 [![NodeJS](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png" alt="GitHub"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/insomnia/insomnia.png" alt="Insomnia"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code"/></code>
+[![HTML](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css&theme=light)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://skillicons.dev)
+[![VSCode](https://skillicons.dev/icons?i=vscode&theme=light)](https://skillicons.dev)
