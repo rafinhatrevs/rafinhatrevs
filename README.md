@@ -16,7 +16,7 @@
 [![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://skillicons.dev)
 [![VSCode](https://skillicons.dev/icons?i=vscode&theme=light)](https://skillicons.dev)
 
-## :shipit: Onde me encontrar
+## 🙈 Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-rafaellatrevizan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaellatrevizan/)](https://www.linkedin.com/in/rafaellatrevizan/)
 [![Gmail Badge](https://img.shields.io/badge/-rafaella_trevizan@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaella_trevizan@hotmail.com)](mailto:rafaella_trevizan@hotmail.com)
