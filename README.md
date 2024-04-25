@@ -1,6 +1,4 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/761f4c99-eda3-4c9a-a4ec-2b6311e2433a" alt="calopsita gif" min-width="75px" max-width="75px" width="75px" align="right">
-
-## 💜 Oie, eu sou a Rafa! 
+## 💜 Oie, eu sou a Rafa! <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/761f4c99-eda3-4c9a-a4ec-2b6311e2433a" alt="calopsita gif" min-width="75px" max-width="75px" width="75px">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
