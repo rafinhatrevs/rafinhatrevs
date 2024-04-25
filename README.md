@@ -28,9 +28,11 @@
   💼 Em busca de experiências.
 </p>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaellatrevizan/)
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## ⭐ My Skills
+## ⭐ Minhas Skills:
 
 [![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
 [![NodeJS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
@@ -42,8 +44,3 @@
 [![Express](https://skillicons.dev/icons?i=express&theme=dark)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhatrevs&layout=compact&theme=dark)](https://github.com/rafinhatrevs/github-readme-stats)
-
-## 🙈 Where to find me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaellatrevizan/)
-
