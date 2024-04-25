@@ -13,7 +13,11 @@
 </p>
 
 <p align="left"> 
-  🌱 Aprendendo mais sobre API Rest.
+  🧠 Aprendendo mais sobre Lógica de Programação.
+</p>
+
+<p align="left"> 
+  🔄 Aprendendo mais sobre API Rest.
 </p>
 
 <p align="left"> 
