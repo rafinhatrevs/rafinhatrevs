@@ -1,4 +1,4 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" alt="gif girl coding" min-width="500px" max-width="500px" width="500px" align="right">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" alt="gif girl coding" min-width="500px" max-width="500px" width="500px" align="right">
 
 ## 💜 Oie, eu sou a Rafa!  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/761f4c99-eda3-4c9a-a4ec-2b6311e2433a" width="75">&nbsp;
 
