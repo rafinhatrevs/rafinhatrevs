@@ -1,4 +1,4 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/761f4c99-eda3-4c9a-a4ec-2b6311e2433a" width="75">&nbsp;
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/761f4c99-eda3-4c9a-a4ec-2b6311e2433a" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
 ## 💜 Oie, eu sou a Rafa! 
