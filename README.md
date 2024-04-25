@@ -1,12 +1,6 @@
-<img src="https://private-user-images.githubusercontent.com/74038190/238201082-761f4c99-eda3-4c9a-a4ec-2b6311e2433a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQwNTg5NjgsIm5iZiI6MTcxNDA1ODY2OCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDEwODItNzYxZjRjOTktZWRhMy00YzlhLWE0ZWMtMmI2MzExZTI0MzNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDI1VDE1MjQyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE1NGFjNmU4MmQ0YTBmYTM2ZDE0YWZiY2Y0YTAxMzUzNDIwMWVlYjAwNzY0OTE3NWQ4ODhmNGNjNWM4YzE3NDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.E1Zdq2WyL0rj9AXtM7vmWLQUJUHxufaLADyVtf8xtj4" alt="gif calopsita" min-width="400px" max-width="400px" width="400px" align="right">
+## 💜 Oie, eu sou a Rafa! 
 
-<p align="left"> 
-  ## 💜 Oie, eu sou a Rafa! 
-</p>
-
-<p align="left"> 
-  ## :octocat: About me
-</p>
+## :octocat: About me
 
 - 🎓 Cursando ADS na Descomplica.
 - 💻 Me aprofundando em Back-End na Cubos Academy.
