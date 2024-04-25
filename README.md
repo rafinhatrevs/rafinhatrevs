@@ -1,19 +1,23 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/761f4c99-eda3-4c9a-a4ec-2b6311e2433a" alt="calopsita gif" min-width="350px" max-width="350px" width="350px" align="right">
 
-## 💜 Oie, eu sou a Rafa! 
+<p align="left"> 
+  💜 Oie, eu sou a Rafa! 
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
 ## :octocat: About me
 
 <p align="left"> 
-  🎓 Cursando ADS na Descomplica.**
+  🎓 Cursando ADS na Descomplica.
 </p>
 
 <p align="left"> 
-  💻 Me aprofundando em Back-End na Cubos Academy.**
+  💻 Me aprofundando em Back-End na Cubos Academy.
 </p>
 
 <p align="left"> 
-- 🚀 Explorando tecnologias.**
+- 🚀 Explorando tecnologias.
 </p>
 
 ## ⭐ My Skills
