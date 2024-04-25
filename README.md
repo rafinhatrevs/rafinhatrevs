@@ -5,27 +5,27 @@
 ### Sobre mim:    
 
 <p align="left"> 
-  🎓 Cursando ADS na Descomplica.
+  🎓  Cursando ADS na Descomplica.
 </p>
 
 <p align="left"> 
-  💻 Me aprofundando em Back-End na Cubos Academy.
+  💻  Me aprofundando em Back-End na Cubos Academy.
 </p>
 
 <p align="left"> 
-  🧠 Aprendendo mais sobre Lógica de Programação.
+  🧠  Aprendendo mais sobre Lógica de Programação.
 </p>
 
 <p align="left"> 
-  🔄 Aprendendo mais sobre API Rest.
+  🔄  Aprendendo mais sobre API Rest.
 </p>
 
 <p align="left"> 
-  🚀 Explorando tecnologias.
+  🚀  Explorando tecnologias.
 </p>
 
 <p align="left"> 
-  💼 Em busca de experiências.
+  💼  Em busca de experiências.
 </p>
 
 ### Onde me encontrar:
@@ -44,6 +44,8 @@
 [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://skillicons.dev)
 [![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev)
 [![Express](https://skillicons.dev/icons?i=express&theme=dark)](https://skillicons.dev)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhatrevs&layout=compact&theme=dark)](https://github.com/rafinhatrevs/github-readme-stats)
 
