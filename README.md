@@ -17,7 +17,7 @@
 </p>
 
 <p align="left"> 
-  🔄  Aprendendo mais sobre API Rest.
+  🔄  Aprendendo mais sobre API REST.
 </p>
 
 <p align="left"> 
