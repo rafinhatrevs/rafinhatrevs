@@ -13,6 +13,10 @@
 </p>
 
 <p align="left"> 
+  🔤 Learning more about TypeScript at Cubos Academy.
+</p>
+
+<p align="left"> 
   🧠  Learning more about Programming Logic.
 </p>
 
@@ -22,6 +26,10 @@
 
 <p align="left"> 
   🗃️ Learning more about Databases.
+</p>
+
+<p align="left"> 
+  🌐 Starting a Front-End course through the ONE program.
 </p>
 
 <p align="left"> 
