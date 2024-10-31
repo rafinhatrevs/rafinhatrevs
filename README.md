@@ -43,7 +43,7 @@
 
 [![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
 [![NodeJS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
-[![React](https://skillicons.dev/icons?i=reactjs&theme=dark)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
 [![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://skillicons.dev)
 [![Express](https://skillicons.dev/icons?i=express&theme=dark)](https://skillicons.dev)
 [![Npm](https://skillicons.dev/icons?i=npm&theme=dark)](https://skillicons.dev)
