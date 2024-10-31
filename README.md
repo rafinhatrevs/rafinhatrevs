@@ -5,19 +5,11 @@
 ### About me:    
 
 <p align="left"> 
-  🎓  Studying ADS at Descomplica.
+  🎓  Graduated in ADS from Descomplica.
 </p>
 
 <p align="left"> 
-  💻  Delving into Back-End at Cubos Academy.
-</p>
-
-<p align="left"> 
-  🔤 Learning more about TypeScript at Cubos Academy.
-</p>
-
-<p align="left"> 
-  🧠  Learning more about Programming Logic.
+  💻  Learning more about Front-End through the ONE program.
 </p>
 
 <p align="left"> 
@@ -25,11 +17,11 @@
 </p>
 
 <p align="left"> 
-  🗃️ Learning more about Databases.
+  ⚛️  Learning more about React.
 </p>
 
 <p align="left"> 
-  🌐 Starting a Front-End course through the ONE program.
+  🔤 Learning more about TypeScript.
 </p>
 
 <p align="left"> 
