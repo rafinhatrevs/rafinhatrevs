@@ -9,7 +9,7 @@
 </p>
 
 <p align="left"> 
-  💻  Learning more about Front-End through the ONE program.
+  💻  Studying postgraduate studies in Full Stack Development.
 </p>
 
 <p align="left"> 
