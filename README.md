@@ -43,17 +43,19 @@
 
 [![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
 [![NodeJS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
-[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
 [![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=py&theme=dark)](https://skillicons.dev)
 [![Express](https://skillicons.dev/icons?i=express&theme=dark)](https://skillicons.dev)
 [![Npm](https://skillicons.dev/icons?i=npm&theme=dark)](https://skillicons.dev)
+[![Postgres](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)
 [![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev)
 [![Styled Components](https://skillicons.dev/icons?i=styledcomponents&theme=dark)](https://skillicons.dev)
 [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
 [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://skillicons.dev)
 [![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev)
-[![Postgres](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)
+[![PyCharm](https://skillicons.dev/icons?i=pycharm&theme=dark)](https://skillicons.dev)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
