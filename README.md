@@ -21,7 +21,11 @@
 </p>
 
 <p align="left"> 
-  🔤 Learning more about TypeScript.
+  🐍 Learning Python.
+</p>
+
+<p align="left"> 
+  🔎 Learning about Regex.
 </p>
 
 <p align="left"> 
